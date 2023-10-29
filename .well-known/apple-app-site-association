@@ -1,0 +1,11 @@
+{
+  "applinks": {
+      "apps": [],
+      "details": [
+      {
+        "appID": "55W7ZG26WP.de.zimmer.listofy",
+        "paths": ["*"]
+      }
+    ]
+  }
+}
