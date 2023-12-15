@@ -2,7 +2,7 @@
     {
         "relation": ["delegate_permission/common.handle_all_urls"],
         "target": {
-            "namespace": "Listofy",
+            "namespace": "android_app",
             "package_name": "de.zimmer.sharedshoppinglist",
             "sha256_cert_fingerprints": ["66:50:1D:E3:CA:F4:E3:91:09:17:2D:3F:BB:AF:15:22:6C:9A:55:07:FF:9E:7A:DA:16:3D:4A:39:1B:CD:60:37"]
         }
